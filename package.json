@@ -1,7 +1,7 @@
 {
-    "name": "Kanna BOT",
+    "name": "FiixlyzBotz",
     "version": "0.9.86",
-    "description": "RPG WhatsApp BOT",
+    "description": "WhatsApp BOT",
     "main": "index.js",
     "type": "module",
     "directories": {
