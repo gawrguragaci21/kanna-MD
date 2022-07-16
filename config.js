@@ -115,7 +115,7 @@ global.wm3 = 'FiixlyzBotz-MD'
 global.botdate = ` 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = ` 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Fiixlyz ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
@@ -137,7 +137,7 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== TEXT ==============*/
-global.wait = '```▰▰▰▱▱▱▱▱▱Loading...```'
+global.wait = '```Loading...```'
 global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -158,7 +158,7 @@ global.fpagedoc = '999'
 global.dmenut = '❏═┅═━–〈' //top
 global.dmenub = '┊•' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
+global.dmenuf = '┗═┅═━––––––๑' //footer
 
 // COMMAND MENU
 global.cmenut = '❏––––––『' //top
