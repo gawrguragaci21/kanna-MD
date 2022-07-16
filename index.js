@@ -1,4 +1,4 @@
-console.log('🐾 Starting...')
+console.log('Starting...')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -21,7 +21,7 @@ say('BotzzMee-\nMD', {
   align: 'center',
   colors: ['blue']
 })
-say(`🐾 WhatsApp Bot MULTI-DEVICE By @${global.nameown}`, {
+say(`WhatsApp Bot By @${global.nameown}`, {
   font: 'console',
   align: 'center',
   colors: ['green']
