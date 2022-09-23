@@ -42,10 +42,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*============== SOCIAL ==============*/
 global.sig = 'https://instagram.com'
-global.sgh = 'https://github.com/gawrguragaci21'
+global.sgh = 'https://github.com/'
 global.sgc = 'https://chat.whatsapp.com/LHbdhHKtGbtFrckmT5OPrU'
 global.sdc = 'https://wa.me/628783944797'
-global.snh = 'https://youtube.com/channel/Fiixlyz'
+global.snh = 'https://youtube.com/channel:'
 
 /*============== PAYMENT ==============*/
 global.pdana = '087829334797'
@@ -55,8 +55,8 @@ global.pgopay = '087829334797'
 /*============== NOMOR ==============*/
 global.nomorbot = '6287829334797'
 global.nomorown = '6287829334797'
-global.namebot = 'FiixlyzBotz-MD'
-global.nameown = 'Fii'
+global.namebot = 'Hexzrky-MD'
+global.nameown = 'Rzxy'
 
 
 /*============== STAFF ==============*/
@@ -64,7 +64,7 @@ global.owner = [
   ['6287829334797'],
   ['6287829334797'],
   ['6287829334797'],
-  ['6287829334797', 'Raff', true]
+  ['6287829334797', 'Rzxy', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'FiixlyzBotz-MD' //Main Watermark
-global.wm2 = 'Fiixlyzbotz-MD'
-global.wm3 = 'FiixlyzBotz-MD'
+global.wm = 'Hexzrky-MD' //Main Watermark
+global.wm2 = 'Hexzrky-MD'
+global.wm3 = 'Hexzrky-MD'
 global.botdate = ` 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = ` 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Fiixlyz ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Hexzrky ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
